@@ -11,3 +11,5 @@
     git remote -v
 7. git status
 8. git add "file.name"
+9. git commit -m "Message about commit"
+10. git push
