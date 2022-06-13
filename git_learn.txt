@@ -10,3 +10,4 @@
 6. Show current repository:
     git remote -v
 7. git status
+8. git add "file.name"
