@@ -17,3 +17,4 @@
 12. git pull
 13. git gui / git gui
 14. git checkout -b feature
+15. git checkout main
