@@ -18,3 +18,4 @@
 13. git gui / git gui
 14. git checkout -b feature
 15. git checkout main
+16. git merge
