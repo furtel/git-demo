@@ -1,0 +1,12 @@
+1. Genetate SSH key pair:
+    ssh-keygen -t rsa -C "roman@furtel.com.ua"
+2. Send public key to repository(Github)
+3. Configure username and email:
+    git config --global user.name "Roman Furtel"
+    git config --global user.email "roman@furtel.com.ua"
+4. Github - Code - Clone - SSH
+5. In git console:
+    git clone git@github.com:furtel/git-demo.git
+6. Show current repository:
+    git remote -v
+7. git status
