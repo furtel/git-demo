@@ -15,3 +15,4 @@
 10. git push
 11. git log
 12. git pull
+13. git gui
