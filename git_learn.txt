@@ -20,3 +20,4 @@
 15. git checkout main
 16. git merge
 17. git merge //again
+18. git in visual Code
